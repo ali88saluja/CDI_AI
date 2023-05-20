@@ -1,0 +1,7 @@
+starcom_path: "20230422_MCDI10min_single_EC.xlsx"    # starcom 整理檔案
+current_path: "20230422_MCDI10min_single_current.xlsx"    # CHI 整理檔案
+cycle: 1    # 幾個 cycle
+starcom_data_interval: 3     # 幾秒儲存一筆資料
+current_data_interval: 1     # 幾秒儲存一筆資料
+voltage: 1.2    # 電壓
+save_as: "20230422-MCDI10min-single_converted.csv"    # 儲存為
